@@ -22,7 +22,7 @@
     "echarts": "^4.8.0",
     "express": "^4.17.1",
     "mathjs": "^7.0.2",
-    "parse-server": "^3.10.0",
+    "parse-server": "^4.4.0",
     "serve-index": "^1.9.1",
     "vconsole": "^3.3.4",
     "vue": "^2.6.11",
