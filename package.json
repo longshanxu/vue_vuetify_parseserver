@@ -15,7 +15,7 @@
     "dev": "set NODE_ENV=production && nodemon ./server.js --config nodemon.config.json"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "colors": "^1.4.0",
     "connect-history-api-fallback": "^1.6.0",
     "core-js": "^3.6.5",
